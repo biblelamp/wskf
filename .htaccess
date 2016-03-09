@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule !(\.(gif|jpe?g|png|ico|css|js|php|jar|jad|doc|pdf)$) index.php
+
+php_flag display_errors on
+php_value error_reporting 2047
