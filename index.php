@@ -529,7 +529,7 @@ function collapsElement(obj) { //,pic)
 	<a href="/links">Ссылки</a>
 </div>
 <div class="footer">
-	<p><a href="http://top.mail.ru/jump?from=1635724" target="_blank"><img src="http://d5.cf.b8.a1.top.mail.ru/counter?id=1635724;t=52" border="0" height="31" width="88" alt="Рейтинг@Mail.ru" /><span id="spylog2006033"></span><script type="text/javascript"> var spylog = { counter: 2006033, image: 25, next: spylog }; document.write(unescape('%3Cscript src%3D"http' + (('https:' == document.location.protocol) ? 's' : '') + '://counter.spylog.com/cnt.js" defer="defer"%3E%3C/script%3E')); </script></a>Федерация W.S.K.F. России &copy; 2009-2017 тел. +7 (863) 290 22 45
+	<p><a href="http://top.mail.ru/jump?from=1635724" target="_blank"><img src="http://d5.cf.b8.a1.top.mail.ru/counter?id=1635724;t=52" border="0" height="31" width="88" alt="Рейтинг@Mail.ru" /><span id="spylog2006033"></span><script type="text/javascript"> var spylog = { counter: 2006033, image: 25, next: spylog }; document.write(unescape('%3Cscript src%3D"http' + (('https:' == document.location.protocol) ? 's' : '') + '://counter.spylog.com/cnt.js" defer="defer"%3E%3C/script%3E')); </script></a>Федерация W.S.K.F. России &copy; 2009-2019 тел. +7 (863) 290 22 45
 	<br>Верстка и программирование <a href="https://linkedin.com/in/biblelamp/" target="_blank">Сергей Ирюпин</a>, дизайн <a href="https://www.behance.net/solomnikov/" target="_blank">Андрей Соломников</a>
 </p>
 </div>
